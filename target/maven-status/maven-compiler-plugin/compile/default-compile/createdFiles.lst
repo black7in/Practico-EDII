@@ -1,0 +1,11 @@
+bo\edu\uagrm\ficct\primerpractico\NodoBinario.class
+bo\edu\uagrm\ficct\primerpractico\NodoMVias.class
+bo\edu\uagrm\ficct\primerpractico\ArbolMViasBusqueda.class
+bo\edu\uagrm\ficct\primerpractico\ExcepcionOrdenInvalido.class
+bo\edu\uagrm\ficct\primerpractico\ArbolB.class
+bo\edu\uagrm\ficct\primerpractico\ArbolBinarioBusqueda.class
+bo\edu\uagrm\ficct\primerpractico\IArbolBusqueda.class
+bo\edu\uagrm\ficct\primerpractico\ArbolBinarioBusquedaEnteroCadena.class
+bo\edu\uagrm\ficct\primerpractico\ExcepcionClaveNoExiste.class
+bo\edu\uagrm\ficct\primerpractico\PrimerPractico.class
+bo\edu\uagrm\ficct\primerpractico\AVL.class
