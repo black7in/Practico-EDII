@@ -9,7 +9,7 @@ package bo.edu.uagrm.ficct.primerpractico;
  *
  * @author HP
  */
-public class PrimerPractico {
+public class ProgramaConsola {
 
     public static void main(String[] args) throws NullPointerException, ExcepcionClaveNoExiste {
         
